@@ -63,7 +63,7 @@
 						</a>
 					</p>
 					<p><strong>HTML, CSS</strong></p>
-					
+					<p> Built with pure HTML and CSS with this I learned how to use parallax scrolling with CSS.</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -83,7 +83,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS</strong></p>
-					<p> noth</p>
+					<p> Built with HTML tables and inline CSS </p>
 				</div>
         </tr>
 	    <tr>
@@ -104,7 +104,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p> nothin</p>
+		    <p> Built using the MJML email framework for much faster output</p>
                 </div>
             </td>
             <td width="50%">
@@ -124,7 +124,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>noth</p>
+		    <p>Built with HTML tables and inline CSS</p>
                 </div>	
             </td>
 		   
