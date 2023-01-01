@@ -71,16 +71,16 @@
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://madein-email.netlify.app/' target="_blank">
+						<img src="https://github.com/dedricsmith/dedricsmith/blob/main/assets/project2-thumbnail.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/dedricsmith/madeInEmailNewsletter" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://madein-email.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
