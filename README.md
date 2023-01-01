@@ -63,7 +63,7 @@
 						</a>
 					</p>
 					<p><strong>HTML, CSS</strong></p>
-          <p>
+          <p>				noth
 					
 					</p>
 				</div>
@@ -85,7 +85,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS</strong></p>
-					<p></p>
+					<p> noth</p>
 				</div>
         </tr>
 	    <tr>
@@ -106,7 +106,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p></p>
+		    <p> nothin</p>
                 </div>
             </td>
             <td width="50%">
@@ -126,7 +126,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p></p>
+		    <p>noth</p>
                 </div>	
             </td>
 		   
