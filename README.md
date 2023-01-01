@@ -62,9 +62,9 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, CSS</strong></p>
           <p>
-						Description goes here
+					
 					</p>
 				</div>
 			</td>
@@ -84,8 +84,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>HTML, CSS</strong></p>
+					<p></p>
 				</div>
         </tr>
 	    <tr>
@@ -105,8 +105,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p></p>
                 </div>
             </td>
             <td width="50%">
@@ -125,8 +125,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p></p>
                 </div>	
             </td>
 		   
@@ -143,7 +143,7 @@
 
 <!-- SOCIALS -->
 
-<h2 align="center">Contact Me</h2>
+<!-- <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
@@ -152,7 +152,7 @@
 <a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
 </p>
 
-<hr>
+<hr> -->
 
 
 <!-- STATS -->
