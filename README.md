@@ -126,10 +126,8 @@
                     <p><strong>HTML, CSS</strong></p>
 		    <p>Built with HTML tables and inline CSS</p>
                 </div>	
-            </td>
-		   
+            </td> 
         </tr>
-		
 </table>
 		
 
