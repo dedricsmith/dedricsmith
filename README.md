@@ -131,8 +131,7 @@
             </td>
         </tr>
 		
-		
-	</table>	
+</table>
 		
 
 </div>
