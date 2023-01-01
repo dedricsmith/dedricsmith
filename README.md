@@ -130,6 +130,51 @@
                 </div>	
             </td>
         </tr>
+		
+		<tr>
+            <td width="50%">
+                <h3 align="center">Project 3</h3>
+                <div align="center" >  
+                    <a href='https://stockx-email-promo.netlify.app/' target="_blank">
+                        <img src="https://github.com/dedricsmith/dedricsmith/blob/main/assets/project3-thumbnail.jpg?raw=true" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/dedricsmith/StockXEmailPromo" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://stockx-email-promo.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                        <img src="https://github.com/dedricsmith/dedricsmith/blob/main/assets/project4-thumbnail.jpg?raw=true" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/dedricsmith/BestBuyReceipt" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://best-buy-receipt.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>	
+            </td>
+        </tr>
+		
+		
 	</table>	
 		
 
