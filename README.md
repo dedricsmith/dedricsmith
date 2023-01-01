@@ -63,7 +63,7 @@
 						</a>
 					</p>
 					<p><strong>HTML, CSS</strong></p>
-					<p>noth</p>
+					
 				</div>
 			</td>
 			<td width="50%">
